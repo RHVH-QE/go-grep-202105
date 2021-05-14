@@ -10,6 +10,6 @@ Purpose of this project is to practice Golang.
 
 go-grep will search for specified string/pattern from the file.
 
-`go build`
+`$ go build`
 
-`go-grep [-e] [pattern] [file]`
+`$ go-grep [-e] [pattern] [file]`
